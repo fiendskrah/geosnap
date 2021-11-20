@@ -1,0 +1,6 @@
+﻿geosnap.datasets.show\_data\_dir
+================================
+
+.. currentmodule:: geosnap
+
+.. automethod:: datasets.show_data_dir
